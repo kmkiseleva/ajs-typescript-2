@@ -14,6 +14,7 @@ cart.add(new Movie(
   'США',
   '"Avengers Assemble!"',
   'фантастика, боевик, фэнтези, приключения',
-  137));
+  137,
+  150));
 
 console.log(cart.items);
